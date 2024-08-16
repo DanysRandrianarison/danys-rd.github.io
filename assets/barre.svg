@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1811.2" height="935.6" viewBox="0 0 1811.2 935.6">
+  <g id="Groupe_10" data-name="Groupe 10" transform="translate(-54.4 -100)">
+    <g id="Groupe_1" data-name="Groupe 1" transform="translate(0 28)">
+      <line id="Ligne_1" data-name="Ligne 1" x2="1410" transform="translate(296.5 165.71)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Ligne_9" data-name="Ligne 9" x2="1410" transform="translate(296.5 72.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Ligne_2" data-name="Ligne 2" x2="1410" transform="translate(296.5 258.92)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Ligne_3" data-name="Ligne 3" x2="1410" transform="translate(296.5 352.131)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Ligne_4" data-name="Ligne 4" x2="1410" transform="translate(296.5 445.341)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Ligne_5" data-name="Ligne 5" x2="1410" transform="translate(296.5 538.551)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Ligne_6" data-name="Ligne 6" x2="1410" transform="translate(296.5 631.761)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Ligne_7" data-name="Ligne 7" x2="1410" transform="translate(296.5 724.972)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Ligne_8" data-name="Ligne 8" x2="1410" transform="translate(296.5 818.182)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Groupe_2" data-name="Groupe 2" transform="translate(0 -229.485)">
+      <path id="Tracé_1" data-name="Tracé 1" d="M0,0V706.455" transform="translate(440 426.455)" fill="none" stroke="#521ce9" stroke-width="15"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="45" cy="45" r="45" transform="translate(395 1124.485)" fill="#521ce9"/>
+    </g>
+    <g id="Groupe_3" data-name="Groupe 3" transform="translate(145 2)">
+      <path id="Tracé_2" data-name="Tracé 2" d="M0,0V755.636" transform="translate(440 139.364)" fill="#eee71c" stroke="#eee71c" stroke-width="15"/>
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="45" cy="45" r="45" transform="translate(395 895)" fill="#eee71c"/>
+    </g>
+    <g id="Groupe_4" data-name="Groupe 4" transform="translate(290 93.985)">
+      <line id="Ligne_10" data-name="Ligne 10" y2="398" transform="translate(440 495.015)" fill="none" stroke="#ef8012" stroke-width="15"/>
+      <circle id="Ellipse_1-3" data-name="Ellipse 1" cx="45" cy="45" r="45" transform="translate(395 801.015)" fill="#ef8012"/>
+    </g>
+    <g id="Groupe_5" data-name="Groupe 5" transform="translate(435 1)">
+      <path id="Tracé_3" data-name="Tracé 3" d="M0,0V685.909" transform="translate(440 209.091)" fill="#f5f5f5" stroke="#ee1472" stroke-width="15"/>
+      <circle id="Ellipse_1-4" data-name="Ellipse 1" cx="45" cy="45" r="45" transform="translate(395 895)" fill="#ee1472"/>
+    </g>
+    <g id="Groupe_6" data-name="Groupe 6" transform="translate(580 -146.394)">
+      <line id="Ligne_10-2" data-name="Ligne 10" y2="656" transform="translate(440 385.394)" fill="none" stroke="#19af19" stroke-width="15"/>
+      <circle id="Ellipse_1-5" data-name="Ellipse 1" cx="45" cy="45" r="45" transform="translate(395 1041.394)" fill="#19af19"/>
+    </g>
+    <g id="Groupe_7" data-name="Groupe 7" transform="translate(725)">
+      <line id="Ligne_10-3" data-name="Ligne 10" y2="692" transform="translate(440 203)" fill="none" stroke="#39f6f0" stroke-width="15"/>
+      <circle id="Ellipse_1-6" data-name="Ellipse 1" cx="45" cy="45" r="45" transform="translate(395 895)" fill="#39f6f0"/>
+    </g>
+    <g id="Groupe_8" data-name="Groupe 8" transform="translate(870)">
+      <path id="Tracé_4" data-name="Tracé 4" d="M0-158.515v769.7" transform="translate(440 300.939)" fill="#af6a10" stroke="#af6a10" stroke-width="15"/>
+      <circle id="Ellipse_1-7" data-name="Ellipse 1" cx="45" cy="45" r="45" transform="translate(395 895)" fill="#af6a10"/>
+    </g>
+    <g id="Groupe_9" data-name="Groupe 9" transform="translate(1015 -6)">
+      <line id="Ligne_10-4" data-name="Ligne 10" y2="668" transform="translate(440 227)" fill="none" stroke="#d8b8b8" stroke-width="15"/>
+      <circle id="Ellipse_1-8" data-name="Ellipse 1" cx="45" cy="45" r="45" transform="translate(395 895)" fill="#d8b8b8"/>
+    </g>
+    <path id="Tracé_5" data-name="Tracé 5" d="M0,18,1791,0" transform="translate(64.5 1007.5)" fill="none" stroke="#71387a" stroke-linecap="square" stroke-width="20"/>
+  </g>
+</svg>
